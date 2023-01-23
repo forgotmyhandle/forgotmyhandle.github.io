@@ -1,0 +1,13 @@
+remote_theme: DottleWither/cayman
+title: dottle's flowers
+description: "solitary"
+markdown: kramdown
+categories: [post]
+defaults:
+  -
+    scope:
+      path: post
+    values:
+      layout: post
+      mathjax: true
+      category: post
